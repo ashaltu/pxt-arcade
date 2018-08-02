@@ -11,10 +11,20 @@
   "url": "/lessons/cherry-pickr",
   "cardType": "lesson",
   "imageUrl": "/static/lessons/cherry-pickr.png"
+},
+
+{
+  "name": "Barrel Dodger",
+  "description": "Learn how to dodge barrels",
+  "url": "/lessons/barrel-dodger",
+  "cardType": "tutorial",
+  "imageUrl": "/static/lessons/barrel-dodger.png"
 }
+
 ]
 ```
 
 ## See Also
 
-[Cherry Pickr](/lessons/cherry-pickr-lesson)
+[Cherry Pickr](/lessons/cherry-pickr)
+[Barrel Dodger](/lessons/barrel-dodger)
