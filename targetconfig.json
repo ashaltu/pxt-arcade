@@ -5,14 +5,24 @@
         ],
         "approvedRepos": [
             "adafruit/Circuit-Playground-Character-Icons",
-            "jwunderl/pxt-corgio",
-            "jwunderl/pxt-darts"
+            "adafruit/pxt-seesaw",
+            "jwunderl/pxt-button-combos"
+        ],
+        "preferredRepos": [
+            "adafruit/Circuit-Playground-Character-Icons",
+            "adafruit/pxt-seesaw",
+            "jwunderl/pxt-button-combos"
         ]
     },
     "galleries": {
+        "Tutorials": "tutorials",
         "Blocks Games": "blocks-games",
-        "Classics": "classics",
         "JavaScript Games": "javascript-games",
-        "Lessons": "lessons"
+        "Community Games": "community",
+        "Game Design Concepts": "concepts",
+        "Graphics and Math": "graphics-math",
+        "Lessons": "lessons",
+        "Courses": "courses",
+        "Hardware": "hardware"
     }
 }
